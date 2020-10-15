@@ -65,7 +65,7 @@ Tente sempre retornar o código de resposta HTTP adequado para cada uma das ocas
 Quando for aplicável, faça o devido tratamento dos erros para que a API não lance exceções.
 
 ## Considerações Finais
-* A partir do momento em que você receber este teste você terá **48 horas** para entregá-lo.
+* A partir do momento em que você receber este teste você terá **3 dias corridos** para entregar o resultado que conseguiu atingir.
 * Ao término do teste você deverá enviar um e-mail contendo o link para o repositório criado e as instruções para compilar/executar seu projeto. Você também poderá encaminhar quaisquer informações que julgar úteis acerca de seu projeto.
 
 **Boa Sorte!!**
