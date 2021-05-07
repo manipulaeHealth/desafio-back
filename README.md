@@ -1,15 +1,17 @@
-# Desafio Back-End Manipulaê
+# Desafio Back-End Manipulaê 💊 💖
 
 O Objetivo deste teste é construir uma API para a consulta, edição, inserção e exclusão sobre um conjunto de dados obtidos a partir da API de Dados do YouTube. Você deverá criar um projeto em **.net Core** utilizando a linguagem de programação **C#**. Também será necessário utilizar um banco de dados para persistir as informações coletadas da API. Para isso crie um banco **SQLite** vinculado ao projeto.
 
 Ao final, você deverá enviar o código criado para um repositório de código, como o GitHub ou Bitbucket, por exemplo. Além do banco de dados SQLite, seu projeto não deverá possuir nenhuma dependência externa.
-> Chave da API do YouTube: **AIzaSyAQtBgDrGu01NRrKUaaTfJwk5dBndZ4RGo**
+> Chave da API do YouTube: **Informado via email**
 
 > Documentação da API do YouTube: [Link](https://developers.google.com/youtube/v3/docs/search/list)
 
-## 1- Preencher um banco de dados a partir da api de vídeos do YouTube.
+## 1- Preencher um banco de dados a partir da api de vídeos do YouTube 🎬.
 
 Utilizando a api do YouTube insira dados em um banco de dados do seu projeto de acordo com os seguintes parâmetros de consulta à api do YouTube:
+
+> **Importante:** Ao consumir os serviços da api do YouTube, você não deve utilizar nenhum pacote ou biblioteca. Construa métodos para requisitar as Urls das APIs e interpretar a resposta no formato Json.
 
 -   Pesquisar por vídeos brasileiros
     
@@ -65,7 +67,7 @@ Tente sempre retornar o código de resposta HTTP adequado para cada uma das ocas
 Quando for aplicável, faça o devido tratamento dos erros para que a API não lance exceções.
 
 ## Considerações Finais
-* O desafio deve ser realizado em **3 dias** a partir da data de envio do desafio. O gerenciamento do tempo e também sera um fator de análise.
+* O desafio deve ser realizado em **7 dias** a partir da data de envio do desafio. O gerenciamento do tempo e também sera um fator de análise.
 * Ao término do teste você deverá enviar um e-mail contendo o link para o repositório criado e as instruções para compilar/executar seu projeto. Você também poderá encaminhar quaisquer informações que julgar úteis acerca de seu projeto.
 
 **Boa Sorte!!**
