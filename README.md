@@ -3,23 +3,21 @@
 O Objetivo deste teste é construir uma API para a consulta, edição, inserção e exclusão sobre um conjunto de dados obtidos a partir da API de Dados do YouTube. Você deverá criar um projeto em **.net Core** utilizando a linguagem de programação **C#**. Também será necessário utilizar um banco de dados para persistir as informações coletadas da API. Para isso crie um banco **SQLite** vinculado ao projeto.
 
 Ao final, você deverá enviar o código criado para um repositório de código, como o GitHub ou Bitbucket, por exemplo. Além do banco de dados SQLite, seu projeto não deverá possuir nenhuma dependência externa.
-> Chave da API do YouTube: **Informado via email**
+> **Chave da API do YouTube**: [Adquira uma chave gratuitamente do YouTube Data API](https://developers.google.com/youtube/v3/getting-started). Lembre-se, a chave de API é um dado sensível e não deve estar presente no código-fonte. Use uma variável de ambiente para armazená-la.
 
-> Documentação da API do YouTube: [Link](https://developers.google.com/youtube/v3/docs/search/list)
+> **Documentação da API do YouTube**: [Link](https://developers.google.com/youtube/v3/docs/search/list)
 
 ## 1- Preencher um banco de dados a partir da api de vídeos do YouTube 🎬.
 
 Utilizando a api do YouTube insira dados em um banco de dados do seu projeto de acordo com os seguintes parâmetros de consulta à api do YouTube:
 
-> **Importante:** Ao consumir os serviços da api do YouTube, você não deve utilizar nenhum pacote ou biblioteca. Construa métodos para requisitar as Urls das APIs e interpretar a resposta no formato Json.
-
 -   Pesquisar por vídeos brasileiros
     
--   Os vídeos devem estar relacionados à manipulação
+-   Os vídeos devem estar relacionados à manipulação de medicamentos
     
--   Todos os vídeos devem ser de 2020
+-   Todos os vídeos devem ser de 2022
 
-
+> **Importante:** Ao consumir os serviços da api do YouTube, você não deve utilizar nenhum pacote ou biblioteca. Construa métodos para requisitar as Urls das APIs e interpretar a resposta no formato Json.
     
 
 ## 2- Crie um conjunto de endpoints que possibilitem a execução das seguintes ações:
