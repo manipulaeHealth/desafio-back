@@ -17,7 +17,7 @@ Utilizando a api do YouTube insira dados em um banco de dados do seu projeto de 
     
 -   Todos os vídeos devem ser de 2022
 
-> **Importante:** Ao consumir os serviços da api do YouTube, você não deve utilizar nenhum pacote ou biblioteca. Construa métodos para requisitar as Urls das APIs e interpretar a resposta no formato Json.
+> **Importante:** Ao consumir os serviços da api do YouTube, você não deve utilizar nenhum pacote ou biblioteca. Construa métodos para requisitar as Urls das APIs e interpretar a resposta no formato Json (REST).
     
 
 ## 2- Crie um conjunto de endpoints que possibilitem a execução das seguintes ações:
@@ -63,6 +63,10 @@ Tente sempre retornar o código de resposta HTTP adequado para cada uma das ocas
 ### 3.3 – Tratamento de Erros
 
 Quando for aplicável, faça o devido tratamento dos erros para que a API não lance exceções.
+
+### 3.4 – Conhecimentos
+
+Vamos considerar quaisquer conhecimentos além dos exigidos neste teste que você queira demonstrar em sua implementação. Fique à vontade para usar todo o seu repertório de conhecimento 😉.
 
 ## Considerações Finais
 * O desafio deve ser realizado em **7 dias** a partir da data de envio do desafio. O gerenciamento do tempo e também sera um fator de análise.
