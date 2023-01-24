@@ -69,7 +69,7 @@ Quando for aplicável, faça o devido tratamento dos erros para que a API não l
 Vamos considerar quaisquer conhecimentos além dos exigidos neste teste que você queira demonstrar em sua implementação. Fique à vontade para usar todo o seu repertório de conhecimento 😉.
 
 ## Considerações Finais
-* O desafio deve ser realizado em **7 dias** a partir da data de envio do desafio. O gerenciamento do tempo e também sera um fator de análise.
+* O desafio deve ser realizado em **48 horas** a partir da data de envio do desafio. O gerenciamento do tempo e também sera um fator de análise.
 * Ao término do teste você deverá enviar um e-mail contendo o link para o repositório criado e as instruções para compilar/executar seu projeto. Você também poderá encaminhar quaisquer informações que julgar úteis acerca de seu projeto.
 
 **Boa Sorte!!**
