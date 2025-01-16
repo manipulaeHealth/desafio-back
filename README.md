@@ -1,4 +1,4 @@
-# Desafio Back-End Manipulaê 💊 💖
+# Desafio Back-End RD Manipulação 💊 💖
 
 O Objetivo deste teste é construir uma API para a consulta, edição, inserção e exclusão sobre um conjunto de dados obtidos a partir da API de Dados do YouTube. Você deverá criar um projeto em **.net Core** utilizando a linguagem de programação **C#**. Também será necessário utilizar um banco de dados para persistir as informações coletadas da API. Para isso crie um banco **SQLite** vinculado ao projeto.
 
@@ -15,7 +15,7 @@ Utilizando a api do YouTube insira dados em um banco de dados do seu projeto de 
     
 -   Os vídeos devem estar relacionados à manipulação de medicamentos
     
--   Todos os vídeos devem ser de 2022
+-   Todos os vídeos devem ser de 2025
 
 > **Importante:** Ao consumir os serviços da api do YouTube, você não deve utilizar nenhum pacote ou biblioteca. Construa métodos para requisitar as Urls das APIs e interpretar a resposta no formato Json (REST).
     
@@ -64,12 +64,16 @@ Tente sempre retornar o código de resposta HTTP adequado para cada uma das ocas
 
 Quando for aplicável, faça o devido tratamento dos erros para que a API não lance exceções.
 
-### 3.4 – Conhecimentos
+### 3.4 - Testes
+
+Testes de unidade são uma parte fundamental do fluxo de desenvolvimento de software. 
+
+### 3.5 – Conhecimentos
 
 Vamos considerar quaisquer conhecimentos além dos exigidos neste teste que você queira demonstrar em sua implementação. Fique à vontade para usar todo o seu repertório de conhecimento 😉.
 
 ## Considerações Finais
-* O desafio deve ser realizado em **48 horas** a partir da data de envio do desafio. O gerenciamento do tempo e também sera um fator de análise.
+* O desafio deve ser realizado em **48 horas** a contar do momento que você o recebeu. O gerenciamento do tempo e também sera um fator de análise.
 * Ao término do teste você deverá enviar um e-mail contendo o link para o repositório criado e as instruções para compilar/executar seu projeto. Você também poderá encaminhar quaisquer informações que julgar úteis acerca de seu projeto.
 
 **Boa Sorte!!**
